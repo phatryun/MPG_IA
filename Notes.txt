@@ -1,0 +1,22 @@
+Data nécessaire :
+
+Table joueur :
+* id Joueur
+* Date de naissance
+
+Table des Match - joueur :
+* Date
+* match
+* joueur
+* note
+* Statistiques (KM parcourus, temps de jeu, )
+
+Table des match :
+* id Match
+* Date
+* Equipe 1
+* Equipe 2
+* Buteur 1
+* Buteur 2
+
+Statis
